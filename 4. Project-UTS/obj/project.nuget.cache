@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZ1bvtmBt5HOw9Hp2Wr/tgS7WMSPy/klWvMABL9QBAvaAOuljixBd/m16vJJs2K/skWm5CMZm3f+6atNfMu1OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Project-UTS\\Project-UTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.20\\microsoft.netcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

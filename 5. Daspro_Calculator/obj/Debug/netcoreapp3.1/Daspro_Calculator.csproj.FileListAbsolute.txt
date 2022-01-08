@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Daspro_Calculator\bin\Debug\netcoreapp3.1\Daspro_Calculator.exe
+C:\Users\Asus\Desktop\Daspro_Calculator\bin\Debug\netcoreapp3.1\Daspro_Calculator.deps.json
+C:\Users\Asus\Desktop\Daspro_Calculator\bin\Debug\netcoreapp3.1\Daspro_Calculator.runtimeconfig.json
+C:\Users\Asus\Desktop\Daspro_Calculator\bin\Debug\netcoreapp3.1\Daspro_Calculator.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Daspro_Calculator\bin\Debug\netcoreapp3.1\Daspro_Calculator.dll
+C:\Users\Asus\Desktop\Daspro_Calculator\bin\Debug\netcoreapp3.1\Daspro_Calculator.pdb
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.dll
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.pdb
+C:\Users\Asus\Desktop\Daspro_Calculator\obj\Debug\netcoreapp3.1\Daspro_Calculator.genruntimeconfig.cache

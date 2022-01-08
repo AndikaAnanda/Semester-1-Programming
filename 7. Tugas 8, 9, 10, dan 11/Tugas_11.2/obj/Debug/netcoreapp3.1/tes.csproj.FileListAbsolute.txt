@@ -1,0 +1,26 @@
+C:\Users\Lenovo\Desktop\tes\bin\Debug\netcoreapp3.1\tes.exe
+C:\Users\Lenovo\Desktop\tes\bin\Debug\netcoreapp3.1\tes.deps.json
+C:\Users\Lenovo\Desktop\tes\bin\Debug\netcoreapp3.1\tes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\tes\bin\Debug\netcoreapp3.1\tes.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\tes\bin\Debug\netcoreapp3.1\tes.dll
+C:\Users\Lenovo\Desktop\tes\bin\Debug\netcoreapp3.1\tes.pdb
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.dll
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.pdb
+C:\Users\Lenovo\Desktop\tes\obj\Debug\netcoreapp3.1\tes.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\bin\Debug\netcoreapp3.1\tes.exe
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\bin\Debug\netcoreapp3.1\tes.deps.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\bin\Debug\netcoreapp3.1\tes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\bin\Debug\netcoreapp3.1\tes.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\bin\Debug\netcoreapp3.1\tes.dll
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\bin\Debug\netcoreapp3.1\tes.pdb
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.dll
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.pdb
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.2\obj\Debug\netcoreapp3.1\tes.genruntimeconfig.cache

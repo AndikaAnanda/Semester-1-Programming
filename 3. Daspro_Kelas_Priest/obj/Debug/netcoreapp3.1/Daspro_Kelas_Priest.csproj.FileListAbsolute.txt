@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\bin\Debug\netcoreapp3.1\Daspro_Kelas_Priest.exe
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\bin\Debug\netcoreapp3.1\Daspro_Kelas_Priest.deps.json
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\bin\Debug\netcoreapp3.1\Daspro_Kelas_Priest.runtimeconfig.json
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\bin\Debug\netcoreapp3.1\Daspro_Kelas_Priest.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\bin\Debug\netcoreapp3.1\Daspro_Kelas_Priest.dll
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\bin\Debug\netcoreapp3.1\Daspro_Kelas_Priest.pdb
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.dll
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.pdb
+C:\Users\Asus\Desktop\Daspro_Kelas_Priest\obj\Debug\netcoreapp3.1\Daspro_Kelas_Priest.genruntimeconfig.cache

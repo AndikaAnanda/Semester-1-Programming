@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\bin\Debug\netcoreapp3.1\Tugas_10.3.exe
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\bin\Debug\netcoreapp3.1\Tugas_10.3.deps.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\bin\Debug\netcoreapp3.1\Tugas_10.3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\bin\Debug\netcoreapp3.1\Tugas_10.3.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\bin\Debug\netcoreapp3.1\Tugas_10.3.dll
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\bin\Debug\netcoreapp3.1\Tugas_10.3.pdb
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.dll
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.pdb
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_10.3\obj\Debug\netcoreapp3.1\Tugas_10.3.genruntimeconfig.cache

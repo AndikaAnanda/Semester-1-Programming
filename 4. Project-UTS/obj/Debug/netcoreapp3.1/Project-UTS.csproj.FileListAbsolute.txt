@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Project-UTS\bin\Debug\netcoreapp3.1\Project-UTS.exe
+C:\Users\Asus\Desktop\Project-UTS\bin\Debug\netcoreapp3.1\Project-UTS.deps.json
+C:\Users\Asus\Desktop\Project-UTS\bin\Debug\netcoreapp3.1\Project-UTS.runtimeconfig.json
+C:\Users\Asus\Desktop\Project-UTS\bin\Debug\netcoreapp3.1\Project-UTS.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Project-UTS\bin\Debug\netcoreapp3.1\Project-UTS.dll
+C:\Users\Asus\Desktop\Project-UTS\bin\Debug\netcoreapp3.1\Project-UTS.pdb
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.dll
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.pdb
+C:\Users\Asus\Desktop\Project-UTS\obj\Debug\netcoreapp3.1\Project-UTS.genruntimeconfig.cache

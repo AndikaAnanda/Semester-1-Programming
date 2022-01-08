@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\bin\Debug\netcoreapp3.1\Game-Tebak-Kata.exe
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\bin\Debug\netcoreapp3.1\Game-Tebak-Kata.deps.json
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\bin\Debug\netcoreapp3.1\Game-Tebak-Kata.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\bin\Debug\netcoreapp3.1\Game-Tebak-Kata.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\bin\Debug\netcoreapp3.1\Game-Tebak-Kata.dll
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\bin\Debug\netcoreapp3.1\Game-Tebak-Kata.pdb
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.dll
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.pdb
+C:\Users\Lenovo\Desktop\Game-Tebak-Kata\obj\Debug\netcoreapp3.1\Game-Tebak-Kata.genruntimeconfig.cache

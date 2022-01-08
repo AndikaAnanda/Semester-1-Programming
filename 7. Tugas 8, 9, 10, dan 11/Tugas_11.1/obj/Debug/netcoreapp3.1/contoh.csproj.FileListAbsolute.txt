@@ -1,0 +1,26 @@
+C:\Users\Lenovo\Desktop\contoh\bin\Debug\netcoreapp3.1\contoh.exe
+C:\Users\Lenovo\Desktop\contoh\bin\Debug\netcoreapp3.1\contoh.deps.json
+C:\Users\Lenovo\Desktop\contoh\bin\Debug\netcoreapp3.1\contoh.runtimeconfig.json
+C:\Users\Lenovo\Desktop\contoh\bin\Debug\netcoreapp3.1\contoh.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\contoh\bin\Debug\netcoreapp3.1\contoh.dll
+C:\Users\Lenovo\Desktop\contoh\bin\Debug\netcoreapp3.1\contoh.pdb
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.dll
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.pdb
+C:\Users\Lenovo\Desktop\contoh\obj\Debug\netcoreapp3.1\contoh.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\bin\Debug\netcoreapp3.1\contoh.exe
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\bin\Debug\netcoreapp3.1\contoh.deps.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\bin\Debug\netcoreapp3.1\contoh.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\bin\Debug\netcoreapp3.1\contoh.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\bin\Debug\netcoreapp3.1\contoh.dll
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\bin\Debug\netcoreapp3.1\contoh.pdb
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.dll
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.pdb
+C:\Users\Lenovo\Desktop\Tugas 8, 9, 10, dan 11\Tugas_11.1\obj\Debug\netcoreapp3.1\contoh.genruntimeconfig.cache

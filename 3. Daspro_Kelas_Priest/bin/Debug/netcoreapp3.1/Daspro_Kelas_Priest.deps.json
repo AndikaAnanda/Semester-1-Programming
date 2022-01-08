@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Daspro_Kelas_Priest/1.0.0": {
+        "runtime": {
+          "Daspro_Kelas_Priest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daspro_Kelas_Priest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
